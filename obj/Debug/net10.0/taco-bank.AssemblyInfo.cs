@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("taco-bank")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2236194b107f16d64ffe7062de1a938ab79c33e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("taco-bank")]
 [assembly: System.Reflection.AssemblyTitleAttribute("taco-bank")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
