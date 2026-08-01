@@ -11,11 +11,11 @@ public class LoanController : Controller
         _context = context;
     }
 
-    [HttpGet]
-    public async Task<IActionResult> Index()
+    [HttpGet("/loans")]
+    public async Task<IActionResult> loanItems()
     {
         var loanItems = await _context.Set<LoanItem>().ToListAsync();
-        return Ok(loanItems);
+        return View(loanItems);
     }
     
 }

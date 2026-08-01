@@ -21,7 +21,6 @@ c:\Users\user2208\Desktop\sub_port_folio\taco-bank\taco-bank\obj\Debug\net10.0\r
 c:\Users\user2208\Desktop\sub_port_folio\taco-bank\taco-bank\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 c:\Users\user2208\Desktop\sub_port_folio\taco-bank\taco-bank\obj\Debug\net10.0\scopedcss\bundle\taco-bank.styles.css
 c:\Users\user2208\Desktop\sub_port_folio\taco-bank\taco-bank\obj\Debug\net10.0\scopedcss\projectbundle\taco-bank.bundle.scp.css
-c:\Users\user2208\Desktop\sub_port_folio\taco-bank\taco-bank\obj\Debug\net10.0\compressed\uuuu18o52h-{0}-b9sayid5wm-b9sayid5wm.gz
 c:\Users\user2208\Desktop\sub_port_folio\taco-bank\taco-bank\obj\Debug\net10.0\compressed\1sn5jl5nl8-{0}-61n19gt1b8-61n19gt1b8.gz
 c:\Users\user2208\Desktop\sub_port_folio\taco-bank\taco-bank\obj\Debug\net10.0\compressed\v4ctj8xbac-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 c:\Users\user2208\Desktop\sub_port_folio\taco-bank\taco-bank\obj\Debug\net10.0\compressed\yqa7aujhzn-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -213,3 +212,4 @@ C:\Users\user2208\Desktop\sub_port_folio\taco-bank\taco-bank\bin\Debug\net10.0\r
 C:\Users\user2208\Desktop\sub_port_folio\taco-bank\taco-bank\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\user2208\Desktop\sub_port_folio\taco-bank\taco-bank\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\user2208\Desktop\sub_port_folio\taco-bank\taco-bank\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+c:\Users\user2208\Desktop\sub_port_folio\taco-bank\taco-bank\obj\Debug\net10.0\compressed\uuuu18o52h-{0}-ub0czmo1wj-ub0czmo1wj.gz
